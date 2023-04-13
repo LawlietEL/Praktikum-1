@@ -1,2 +1,3 @@
 # Praktikum-1
 Sedang mencoba...
+Sedang mencoba untuk menyambungkan vc code dengan git dan github.
